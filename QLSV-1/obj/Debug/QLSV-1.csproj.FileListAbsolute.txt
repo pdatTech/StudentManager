@@ -1,0 +1,40 @@
+C:\Users\VDCElectronic & Co\source\repos\QLSV-1\QLSV-1\bin\Debug\QLSV-1.exe.config
+C:\Users\VDCElectronic & Co\source\repos\QLSV-1\QLSV-1\bin\Debug\QLSV-1.exe
+C:\Users\VDCElectronic & Co\source\repos\QLSV-1\QLSV-1\bin\Debug\QLSV-1.pdb
+C:\Users\VDCElectronic & Co\source\repos\QLSV-1\QLSV-1\obj\Debug\QLSV-1.csproj.AssemblyReference.cache
+C:\Users\VDCElectronic & Co\source\repos\QLSV-1\QLSV-1\obj\Debug\QLSV_1.frmMain.resources
+C:\Users\VDCElectronic & Co\source\repos\QLSV-1\QLSV-1\obj\Debug\QLSV_1.Properties.Resources.resources
+C:\Users\VDCElectronic & Co\source\repos\QLSV-1\QLSV-1\obj\Debug\QLSV-1.csproj.GenerateResource.cache
+C:\Users\VDCElectronic & Co\source\repos\QLSV-1\QLSV-1\obj\Debug\QLSV-1.csproj.CoreCompileInputs.cache
+C:\Users\VDCElectronic & Co\source\repos\QLSV-1\QLSV-1\obj\Debug\QLSV-1.exe
+C:\Users\VDCElectronic & Co\source\repos\QLSV-1\QLSV-1\obj\Debug\QLSV-1.pdb
+C:\Users\VDCElectronic & Co\source\repos\QLSV-1\QLSV-1\obj\Debug\QLSV_1.frmDSSV.resources
+C:\Users\VDCElectronic & Co\source\repos\QLSV-1\QLSV-1\obj\Debug\QLSV_1.frmSinhVien.resources
+C:\Users\VDCElectronic & Co\source\repos\QLSV-1\QLSV-1\obj\Debug\QLSV_1.frmDSGV.resources
+C:\Users\VDCElectronic & Co\source\repos\QLSV-1\QLSV-1\obj\Debug\QLSV_1.frmGV.resources
+C:\Users\VDCElectronic & Co\source\repos\QLSV-1\QLSV-1\obj\Debug\QLSV_1.frmDSMH.resources
+C:\Users\VDCElectronic & Co\source\repos\QLSV-1\QLSV-1\obj\Debug\QLSV_1.frmMonHoc.resources
+C:\Users\VDCElectronic & Co\source\repos\QLSV-1\QLSV-1\obj\Debug\QLSV_1.frmDSDiemThi.resources
+C:\Users\VDCElectronic & Co\source\repos\QLSV-1\QLSV-1\obj\Debug\QLSV_1.frmWelcome.resources
+C:\Users\VDCElectronic & Co\source\repos\QLSV-1\QLSV-1\obj\Debug\QLSV_1.frmDsLopHoc.resources
+C:\Users\VDCElectronic & Co\source\repos\QLSV-1\QLSV-1\obj\Debug\QLSV_1.frmLopHoc.resources
+C:\Users\VDCElectronic & Co\Documents\DỰ ÁN QUẢN LÝ S\QLSV-1\bin\Debug\QLSV-1.exe.config
+C:\Users\VDCElectronic & Co\Documents\DỰ ÁN QUẢN LÝ S\QLSV-1\bin\Debug\QLSV-1.exe
+C:\Users\VDCElectronic & Co\Documents\DỰ ÁN QUẢN LÝ S\QLSV-1\bin\Debug\QLSV-1.pdb
+C:\Users\VDCElectronic & Co\Documents\DỰ ÁN QUẢN LÝ S\QLSV-1\obj\Debug\QLSV-1.csproj.AssemblyReference.cache
+C:\Users\VDCElectronic & Co\Documents\DỰ ÁN QUẢN LÝ S\QLSV-1\obj\Debug\QLSV_1.frmDSDiemThi.resources
+C:\Users\VDCElectronic & Co\Documents\DỰ ÁN QUẢN LÝ S\QLSV-1\obj\Debug\QLSV_1.frmDSGV.resources
+C:\Users\VDCElectronic & Co\Documents\DỰ ÁN QUẢN LÝ S\QLSV-1\obj\Debug\QLSV_1.frmDsLopHoc.resources
+C:\Users\VDCElectronic & Co\Documents\DỰ ÁN QUẢN LÝ S\QLSV-1\obj\Debug\QLSV_1.frmDSMH.resources
+C:\Users\VDCElectronic & Co\Documents\DỰ ÁN QUẢN LÝ S\QLSV-1\obj\Debug\QLSV_1.frmDSSV.resources
+C:\Users\VDCElectronic & Co\Documents\DỰ ÁN QUẢN LÝ S\QLSV-1\obj\Debug\QLSV_1.frmGV.resources
+C:\Users\VDCElectronic & Co\Documents\DỰ ÁN QUẢN LÝ S\QLSV-1\obj\Debug\QLSV_1.frmLopHoc.resources
+C:\Users\VDCElectronic & Co\Documents\DỰ ÁN QUẢN LÝ S\QLSV-1\obj\Debug\QLSV_1.frmMain.resources
+C:\Users\VDCElectronic & Co\Documents\DỰ ÁN QUẢN LÝ S\QLSV-1\obj\Debug\QLSV_1.frmMonHoc.resources
+C:\Users\VDCElectronic & Co\Documents\DỰ ÁN QUẢN LÝ S\QLSV-1\obj\Debug\QLSV_1.frmSinhVien.resources
+C:\Users\VDCElectronic & Co\Documents\DỰ ÁN QUẢN LÝ S\QLSV-1\obj\Debug\QLSV_1.frmWelcome.resources
+C:\Users\VDCElectronic & Co\Documents\DỰ ÁN QUẢN LÝ S\QLSV-1\obj\Debug\QLSV_1.Properties.Resources.resources
+C:\Users\VDCElectronic & Co\Documents\DỰ ÁN QUẢN LÝ S\QLSV-1\obj\Debug\QLSV-1.csproj.GenerateResource.cache
+C:\Users\VDCElectronic & Co\Documents\DỰ ÁN QUẢN LÝ S\QLSV-1\obj\Debug\QLSV-1.csproj.CoreCompileInputs.cache
+C:\Users\VDCElectronic & Co\Documents\DỰ ÁN QUẢN LÝ S\QLSV-1\obj\Debug\QLSV-1.exe
+C:\Users\VDCElectronic & Co\Documents\DỰ ÁN QUẢN LÝ S\QLSV-1\obj\Debug\QLSV-1.pdb
