@@ -68,16 +68,7 @@ namespace QLSV_1
 
         private void button1_Click(object sender, EventArgs e) //buttonLuu
         {
-            // button btnLuu sẽ xử lý 1 trong 2 tình huống
-            // Trường hợp 1: nếu mã sinh viên không có giá trị -> thêm mới sinh viên
-            // Trường hợp 2: nếu mã sinh viên có giá trị -> cập nhật thông tin sinh viên
-
-            /* Ý tưởng
-               -- Cho dù thêm mới hay cập nhật
-               -- thì đều cần các giá trị như: họ, tên đệm, tên, ngày sinh, giới tính
-               -- quê quán, địa chỉ, điện thoại, email => các giá trị này dùng cho cả 2 trường hợp
-               -- Riêng cập nhật sinh viên, cần quan tâm tới mã sinh viên
-            */
+            
             string sql = "";
             string ho = txtHo.Text;
             string tendem = txtTendem.Text;
@@ -93,11 +84,8 @@ namespace QLSV_1
                 mtbNgaysinh.Select(); // trỏ chuột về mtbNgaysinh
                 return; // không thực hiện các câu lệnh phía dưới
             }
-
-            // Vì ngày sinh ở masketbox, chúng ta set theo dạng dd/mm/yyyy
-            // nhưng trong csdl lại lưu dưới dạng yyyy-mm-dd
-            // =>> cần chuyển từ dd//mm//yyyy sang yyyy-mm-dd 
-            string gioitinh = rbtNam.Checked ? "1" : "0"; // đây là toán tử 2 ngôi
+            string gioitinh = rbtNam.Checked ? "1" : "0"; 
+            
                                                           // nếu radiobutton Nam được check thì chọn giá trị 1
                                                           // ngược lại chọn giá trị 0 -> phù hợp với giá trị đã được lưu ở csdl
             
